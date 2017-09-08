@@ -18,6 +18,8 @@ END - GENERATED VARIABLES, DO NOT EDIT!
 
 include::{include_path}/plugin_header.asciidoc[]
 
+Included in Default Install:  No  
+
 ==== Description
 
 This example filter will replace the contents of the default 
